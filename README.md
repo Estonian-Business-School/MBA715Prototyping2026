@@ -2,12 +2,12 @@
 
 MBA716 is the integrating course of Module II of the Digital Product Management MBA at Estonian Business School. Three parallel courses feed into this one project:
 
-| Course | Lecturer | What it contributes to this repository |
-|---|---|---|
-| DIG709 AI-Based User Requirements | Martin Maduka Ejeagwu | Understanding the requirements process and results. |
-| DIG710 UX Design | Tanel Kärp | Clickable prototype (V0), visual identity |
-| DIG711 AI-based Product Development | Indrek Seppo | The working application |
-| MBA716 Capstone II | Marko Rillo | Testing, iteration, architecture, pitch |
+| Course | Lecturer | Github Username | What it contributes to this repository |
+|---|---|---|---|
+| DIG709 AI-Based User Requirements | Martin Maduka Ejeagwu | [MartinMaduka](https://github.com/martinmaduka) | Understanding the requirements process and results. |
+| DIG710 UX Design | Tanel Kärp | [TanelKarp](https://github.com/tanelkarp) | Clickable prototype (V0), visual identity |
+| DIG711 AI-based Product Development | Indrek Seppo | [iseppo](https://github.com/iseppo) | The working application |
+| MBA716 Capstone II | Marko Rillo | [MarkoRillo](https://github.com/markorillo) | Testing, iteration, architecture, pitch |
 
 You work **individually** on your own product. In class, you work in groups of 4–5 on one group member's project at a time, using the same templates you then fill in at home.
 
